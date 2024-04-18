@@ -1,4 +1,4 @@
-Mount is supposed to be screwd into standard screw wholes of Mark4 frame on fromt top, not rear back. Mount has hatch which holds top mounted battery from sliding toward font.
+Mount is supposed to be screwd into standard screw wholes of Mark4 frame on front top, not rear back. Mount has hatch which holds top mounted battery from sliding toward front.
 
 Reciever doesn't fit its place perfectly. That why I have to redo it later. 
 
